@@ -1,0 +1,2 @@
+# GestureFusion-AI-Based-Interactive-Digital-Logic-Learning-System
+Gesture-Based Digital Logic Simulator built using Python, OpenCV, and MediaPipe. It demonstrates logic gates, arithmetic circuits, FSM, shift registers, MUX, and DEMUX using real-time hand gesture control. The system converts gestures into binary inputs, providing an interactive and hardware-free way to visualize digital electronics concepts.
